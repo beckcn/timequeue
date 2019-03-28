@@ -5,7 +5,8 @@ import (
 	"strconv"
 	"testing"
 	"time"
-	"timequeue"
+	
+	"github.com/beckcn/timequeue"
 )
 
 type HeartBeatData struct {
